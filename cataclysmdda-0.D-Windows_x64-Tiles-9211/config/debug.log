@@ -1,0 +1,709 @@
+
+
+-----------------------------------------
+12:55:13.988 : Starting log.
+12:55:13.989 INFO : Cataclysm DDA version 0.D-4913-g275d8a7
+12:55:14.005 INFO : Number of render drivers on your system: 4
+12:55:14.005 INFO : Render driver: 0/direct3d
+12:55:14.005 INFO : Render driver: 1/direct3d11
+12:55:14.005 INFO : Render driver: 2/opengl
+12:55:14.005 INFO : Render driver: 3/software
+12:55:14.012 INFO : Language is set to: 'zh_CN'
+12:55:14.075 INFO : SDL version used during compile is 2.0.5
+12:55:14.075 INFO : SDL version used during linking and in runtime is 2.0.5
+12:55:14.172 INFO : Active renderer: 0/direct3d
+12:55:14.605 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+12:55:15.002 WARNING : opendir [./mods/] failed with "No such file or directory".
+12:55:25.816 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+12:55:25.819 ERROR : couldn't parse color: c_dark_green
+12:55:25.821 ERROR : couldn't parse color: c_gray
+12:55:25.821 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.821 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.821 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.821 ERROR : couldn't parse color: c_dark_blue
+12:55:25.822 ERROR : couldn't parse color: c_dark_green
+12:55:25.824 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.825 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.826 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.830 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.830 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.857 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.858 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.882 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+12:55:25.884 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.903 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.903 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.903 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:25.903 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+12:55:26.136 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+12:55:26.136 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+12:55:26.309 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+12:55:36.005 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:00:46.395 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:00:46.398 ERROR : couldn't parse color: c_dark_green
+13:00:46.400 ERROR : couldn't parse color: c_gray
+13:00:46.400 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.400 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.400 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.400 ERROR : couldn't parse color: c_dark_blue
+13:00:46.401 ERROR : couldn't parse color: c_dark_green
+13:00:46.402 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.403 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.403 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.407 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.408 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.432 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.433 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.452 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:00:46.454 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.472 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.472 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.472 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.473 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:00:46.700 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:00:46.700 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:00:46.872 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:00:50.006 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:01:25.009 : Log shutdown.
+-----------------------------------------
+
+
+
+-----------------------------------------
+13:01:27.246 : Starting log.
+13:01:27.246 INFO : Cataclysm DDA version 0.D-4913-g275d8a7
+13:01:27.263 INFO : Number of render drivers on your system: 4
+13:01:27.263 INFO : Render driver: 0/direct3d
+13:01:27.263 INFO : Render driver: 1/direct3d11
+13:01:27.263 INFO : Render driver: 2/opengl
+13:01:27.263 INFO : Render driver: 3/software
+13:01:27.270 INFO : Language is set to: 'zh_CN'
+13:01:27.338 INFO : SDL version used during compile is 2.0.5
+13:01:27.338 INFO : SDL version used during linking and in runtime is 2.0.5
+13:01:27.435 INFO : Active renderer: 0/direct3d
+13:01:27.815 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+13:01:28.007 WARNING : opendir [./mods/] failed with "No such file or directory".
+13:01:31.695 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:01:31.698 ERROR : couldn't parse color: c_dark_green
+13:01:31.700 ERROR : couldn't parse color: c_gray
+13:01:31.700 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.700 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.700 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.700 ERROR : couldn't parse color: c_dark_blue
+13:01:31.701 ERROR : couldn't parse color: c_dark_green
+13:01:31.702 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.703 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.703 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.707 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.708 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.734 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.735 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.754 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:01:31.756 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.774 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.774 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.774 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.775 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:01:31.999 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:01:31.999 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:01:32.172 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:01:41.657 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:02:01.617 : Log shutdown.
+-----------------------------------------
+
+
+
+-----------------------------------------
+13:02:03.168 : Starting log.
+13:02:03.168 INFO : Cataclysm DDA version 0.D-4913-g275d8a7
+13:02:03.184 INFO : Number of render drivers on your system: 4
+13:02:03.184 INFO : Render driver: 0/direct3d
+13:02:03.184 INFO : Render driver: 1/direct3d11
+13:02:03.184 INFO : Render driver: 2/opengl
+13:02:03.184 INFO : Render driver: 3/software
+13:02:03.192 INFO : Language is set to: 'zh_CN'
+13:02:03.255 INFO : SDL version used during compile is 2.0.5
+13:02:03.255 INFO : SDL version used during linking and in runtime is 2.0.5
+13:02:03.355 INFO : Active renderer: 0/direct3d
+13:02:03.739 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+13:02:03.940 WARNING : opendir [./mods/] failed with "No such file or directory".
+13:02:08.360 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:02:08.363 ERROR : couldn't parse color: c_dark_green
+13:02:08.364 ERROR : couldn't parse color: c_gray
+13:02:08.365 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.365 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.365 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.365 ERROR : couldn't parse color: c_dark_blue
+13:02:08.365 ERROR : couldn't parse color: c_dark_green
+13:02:08.368 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.368 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.369 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.372 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.373 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.398 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.398 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.418 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:02:08.420 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.438 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.438 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.438 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.439 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:02:08.664 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:02:08.664 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:02:08.839 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:02:18.263 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:04:39.260 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:04:39.264 ERROR : couldn't parse color: c_dark_green
+13:04:39.266 ERROR : couldn't parse color: c_gray
+13:04:39.266 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.266 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.266 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.267 ERROR : couldn't parse color: c_dark_blue
+13:04:39.267 ERROR : couldn't parse color: c_dark_green
+13:04:39.269 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.269 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.270 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.275 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.275 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.306 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.307 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.328 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:04:39.330 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.349 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.349 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.349 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.350 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:04:39.583 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:04:39.583 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:04:39.753 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:04:43.303 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:05:37.211 : Log shutdown.
+-----------------------------------------
+
+
+
+-----------------------------------------
+13:05:39.016 : Starting log.
+13:05:39.017 INFO : Cataclysm DDA version 0.D-4913-g275d8a7
+13:05:39.033 INFO : Number of render drivers on your system: 4
+13:05:39.033 INFO : Render driver: 0/direct3d
+13:05:39.033 INFO : Render driver: 1/direct3d11
+13:05:39.033 INFO : Render driver: 2/opengl
+13:05:39.033 INFO : Render driver: 3/software
+13:05:39.039 INFO : Language is set to: 'zh_CN'
+13:05:39.104 INFO : SDL version used during compile is 2.0.5
+13:05:39.104 INFO : SDL version used during linking and in runtime is 2.0.5
+13:05:39.204 INFO : Active renderer: 0/direct3d
+13:05:39.588 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+13:05:39.777 WARNING : opendir [./mods/] failed with "No such file or directory".
+13:05:43.525 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:05:43.528 ERROR : couldn't parse color: c_dark_green
+13:05:43.529 ERROR : couldn't parse color: c_gray
+13:05:43.530 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.530 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.530 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.530 ERROR : couldn't parse color: c_dark_blue
+13:05:43.530 ERROR : couldn't parse color: c_dark_green
+13:05:43.532 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.533 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.533 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.537 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.537 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.563 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.564 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.582 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:05:43.584 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.603 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.603 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.603 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.604 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:05:43.827 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:05:43.827 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:05:44.004 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:05:53.780 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:09:30.873 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:09:30.877 ERROR : couldn't parse color: c_dark_green
+13:09:30.879 ERROR : couldn't parse color: c_gray
+13:09:30.879 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.879 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.879 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.880 ERROR : couldn't parse color: c_dark_blue
+13:09:30.880 ERROR : couldn't parse color: c_dark_green
+13:09:30.882 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.882 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.883 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.887 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.887 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.915 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.915 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.934 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:09:30.936 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.956 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.956 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.956 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:30.957 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:09:31.180 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:09:31.180 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:09:31.351 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:09:34.718 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:13:46.971 ERROR SDL : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0xd1b287[cataclysm-tiles.exe+0x91b287]), 
+	(@0xd1fab2[cataclysm-tiles.exe+0x91fab2]), 
+	(@0xd20252[cataclysm-tiles.exe+0x920252]), 
+	(@0x6cd658[cataclysm-tiles.exe+0x2cd658]), 
+	(@0x6ce598[cataclysm-tiles.exe+0x2ce598]), 
+	(@0x6afe5a[cataclysm-tiles.exe+0x2afe5a]), 
+	(IMG_LoadWEBP_RW+0x55bc38@0x1549748[cataclysm-tiles.exe+0x1149748]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:13:46.971 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:13:47.400 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:13:47.401 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:13:50.877 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:13:51.279 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:13:56.200 : Log shutdown.
+-----------------------------------------
+
+
+
+-----------------------------------------
+13:13:59.162 : Starting log.
+13:13:59.162 INFO : Cataclysm DDA version 0.D-4913-g275d8a7
+13:13:59.179 INFO : Number of render drivers on your system: 4
+13:13:59.179 INFO : Render driver: 0/direct3d
+13:13:59.179 INFO : Render driver: 1/direct3d11
+13:13:59.179 INFO : Render driver: 2/opengl
+13:13:59.180 INFO : Render driver: 3/software
+13:13:59.186 INFO : Language is set to: 'zh_CN'
+13:13:59.255 INFO : SDL version used during compile is 2.0.5
+13:13:59.255 INFO : SDL version used during linking and in runtime is 2.0.5
+13:13:59.360 INFO : Active renderer: 0/direct3d
+13:13:59.733 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+13:13:59.933 WARNING : opendir [./mods/] failed with "No such file or directory".
+13:14:03.871 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:14:03.874 ERROR : couldn't parse color: c_dark_green
+13:14:03.876 ERROR : couldn't parse color: c_gray
+13:14:03.876 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.876 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.876 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.876 ERROR : couldn't parse color: c_dark_blue
+13:14:03.877 ERROR : couldn't parse color: c_dark_green
+13:14:03.878 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.879 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.879 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.883 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.883 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.910 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:03.910 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:05.274 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:14:05.276 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:05.293 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:05.293 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:05.294 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:05.294 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:14:05.523 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:14:05.523 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:14:05.683 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:14:15.277 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:19:09.336 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:19:09.339 ERROR : couldn't parse color: c_dark_green
+13:19:09.341 ERROR : couldn't parse color: c_gray
+13:19:09.341 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.341 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.341 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.342 ERROR : couldn't parse color: c_dark_blue
+13:19:09.342 ERROR : couldn't parse color: c_dark_green
+13:19:09.344 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.344 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.345 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.349 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.349 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.373 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.374 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.394 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:19:09.395 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.415 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.415 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.415 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.416 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:19:09.641 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:19:09.641 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:19:09.814 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:19:12.965 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:20:53.501 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:20:53.504 ERROR : couldn't parse color: c_dark_green
+13:20:53.506 ERROR : couldn't parse color: c_gray
+13:20:53.506 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.506 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.506 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.507 ERROR : couldn't parse color: c_dark_blue
+13:20:53.507 ERROR : couldn't parse color: c_dark_green
+13:20:53.509 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.509 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.510 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.513 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.514 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.541 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.541 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.559 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:20:53.560 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.580 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.580 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.580 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.581 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:20:53.802 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:20:53.802 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:20:53.964 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:20:56.713 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:23:02.895 ERROR SDL : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0xd1b287[cataclysm-tiles.exe+0x91b287]), 
+	(@0xd1fab2[cataclysm-tiles.exe+0x91fab2]), 
+	(@0xd20252[cataclysm-tiles.exe+0x920252]), 
+	(@0x6cd658[cataclysm-tiles.exe+0x2cd658]), 
+	(@0x6ce598[cataclysm-tiles.exe+0x2ce598]), 
+	(@0x6afe5a[cataclysm-tiles.exe+0x2afe5a]), 
+	(IMG_LoadWEBP_RW+0x55bc38@0x1549748[cataclysm-tiles.exe+0x1149748]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:23:03.302 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:23:08.556 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:23:08.958 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:23:59.150 : Log shutdown.
+-----------------------------------------
+
+
+
+-----------------------------------------
+13:24:03.846 : Starting log.
+13:24:03.846 INFO : Cataclysm DDA version 0.D-4913-g275d8a7
+13:24:03.865 INFO : Number of render drivers on your system: 4
+13:24:03.865 INFO : Render driver: 0/direct3d
+13:24:03.865 INFO : Render driver: 1/direct3d11
+13:24:03.865 INFO : Render driver: 2/opengl
+13:24:03.865 INFO : Render driver: 3/software
+13:24:03.871 INFO : Language is set to: 'zh_CN'
+13:24:03.938 INFO : SDL version used during compile is 2.0.5
+13:24:03.938 INFO : SDL version used during linking and in runtime is 2.0.5
+13:24:04.049 INFO : Active renderer: 0/direct3d
+13:24:04.430 INFO : USE_COLOR_MODULATED_TEXTURES is set to 0
+13:24:04.638 WARNING : opendir [./mods/] failed with "No such file or directory".
+13:24:08.556 ERROR : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x526679[cataclysm-tiles.exe+0x126679]), 
+	(@0x52e874[cataclysm-tiles.exe+0x12e874]), 
+	(IMG_LoadWEBP_RW+0x14080f@0x112e31f[cataclysm-tiles.exe+0xd2e31f]), 
+	(@0x911022[cataclysm-tiles.exe+0x511022]), 
+	(@0x9156b6[cataclysm-tiles.exe+0x5156b6]), 
+	(IMG_LoadWEBP_RW+0x1d576e@0x11c327e[cataclysm-tiles.exe+0xdc327e]), 
+	(@0x916ad2[cataclysm-tiles.exe+0x516ad2]), 
+	(@0x71aa11[cataclysm-tiles.exe+0x31aa11]), 
+	(@0x71d4c2[cataclysm-tiles.exe+0x31d4c2]), 
+	(@0x71dadb[cataclysm-tiles.exe+0x31dadb]), 
+	(@0x684615[cataclysm-tiles.exe+0x284615]), 
+	(@0x686746[cataclysm-tiles.exe+0x286746]), 
+	(@0x6abee5[cataclysm-tiles.exe+0x2abee5]), 
+	(@0x8a87bc[cataclysm-tiles.exe+0x4a87bc]), 
+	(@0x8a9dba[cataclysm-tiles.exe+0x4a9dba]), 
+	(IMG_LoadWEBP_RW+0x55c03f@0x1549b4f[cataclysm-tiles.exe+0x1149b4f]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+couldn't parse color: c_tan
+13:24:08.559 ERROR : couldn't parse color: c_dark_green
+13:24:08.561 ERROR : couldn't parse color: c_gray
+13:24:08.561 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.561 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.561 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.561 ERROR : couldn't parse color: c_dark_blue
+13:24:08.562 ERROR : couldn't parse color: c_dark_green
+13:24:08.564 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.564 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.565 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.568 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.569 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.595 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:08.596 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:09.021 WARNING : Deprecated foreground color suffix was used: (lt) in (ltred).  Please update mod that uses that.
+13:24:09.023 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:09.042 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:09.042 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:09.042 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:09.043 WARNING : Deprecated foreground color suffix was used: (lt) in (ltgray).  Please update mod that uses that.
+13:24:10.970 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_first (robot dispatch center)
+13:24:10.970 ERROR MAP_GEN : sym is defined as number instead of string for overmap_terrain: robot_dispatch_second (robot dispatch center)
+13:24:11.129 WARNING : opendir [./save/¬ﬁ∞¢≈µøÀ/mods] failed with "No such file or directory".
+13:24:21.604 INFO : Loaded tileset: MSX++DEAD_PEOPLE
+13:25:34.299 ERROR GAME : (error message will follow backtrace)
+	(@0x5a655e[cataclysm-tiles.exe+0x1a655e]), 
+	(@0x5a6b8a[cataclysm-tiles.exe+0x1a6b8a]), 
+	(@0x6ad72b[cataclysm-tiles.exe+0x2ad72b]), 
+	(@0x6b00e4[cataclysm-tiles.exe+0x2b00e4]), 
+	(IMG_LoadWEBP_RW+0x55bc38@0x1549748[cataclysm-tiles.exe+0x1149748]), 
+	(@0x4013ed[cataclysm-tiles.exe+0x13ed]), 
+	(@0x4014fb[cataclysm-tiles.exe+0x14fb]), 
+	(BaseThreadInitThunk+0x14@0x7ffbcfef4034[KERNEL32.DLL+0x14034]), 
+	(RtlUserThreadStart+0x21@0x7ffbd1dc3691[ntdll.dll+0x73691]), 
+Backtrace emission took 0 seconds.
+src/game.cpp:4144: game:monmove: ÊîæÁîµ‰∏ßÂ∞∏ can't move to its location! (3:6:0), Âú∞Êùø
+13:25:48.385 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:25:48.795 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:25:59.609 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:26:00.033 ERROR SDL : src/sdltiles.cpp:601: Failed to create glyph for : Text has zero width
+13:26:24.398 : Log shutdown.
+-----------------------------------------
+
