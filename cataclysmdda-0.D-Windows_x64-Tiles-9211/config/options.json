@@ -151,9 +151,9 @@
   },
   { "info": "开启时，则游戏会在每个回合强制重新渲染。", "default": "默认：是", "name": "FORCE_REDRAW", "value": "true"
   },
-  { "info": "设置窗口的宽度（X方向），需要重新启动。", "default": "默认：80 （最小：80，最大：960）", "name": "TERMINAL_X", "value": "100"
+  { "info": "设置窗口的宽度（X方向），需要重新启动。", "default": "默认：80 （最小：80，最大：960）", "name": "TERMINAL_X", "value": "240"
   },
-  { "info": "设置窗口的高度（Y方向），需要重新启动。", "default": "默认：24 （最小：24，最大：270）", "name": "TERMINAL_Y", "value": "42"
+  { "info": "设置窗口的高度（Y方向），需要重新启动。", "default": "默认：24 （最小：24，最大：270）", "name": "TERMINAL_Y", "value": "63"
   },
   { "info": "如果设置为是，字体显示效果会更好。", "default": "默认：否", "name": "FONT_BLENDING", "value": "true"
   },
