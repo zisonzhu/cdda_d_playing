@@ -151,9 +151,9 @@
   },
   { "info": "开启时，则游戏会在每个回合强制重新渲染。", "default": "默认：是", "name": "FORCE_REDRAW", "value": "true"
   },
-  { "info": "设置窗口的宽度（X方向），需要重新启动。", "default": "默认：80 （最小：80，最大：960）", "name": "TERMINAL_X", "value": "240"
+  { "info": "设置窗口的宽度（X方向），需要重新启动。", "default": "默认：80 （最小：80，最大：960）", "name": "TERMINAL_X", "value": "115"
   },
-  { "info": "设置窗口的高度（Y方向），需要重新启动。", "default": "默认：24 （最小：24，最大：270）", "name": "TERMINAL_Y", "value": "63"
+  { "info": "设置窗口的高度（Y方向），需要重新启动。", "default": "默认：24 （最小：24，最大：270）", "name": "TERMINAL_Y", "value": "42"
   },
   { "info": "如果设置为是，字体显示效果会更好。", "default": "默认：否", "name": "FONT_BLENDING", "value": "true"
   },
@@ -215,7 +215,7 @@
   },
   { "info": "创建角色时可用技能点数", "default": "默认：2 （最小：0，最大：1000）", "name": "INITIAL_SKILL_POINTS", "value": "2"
   },
-  { "info": "创建角色时最大特性点数。", "default": "默认：12 （最小：0，最大：1000）", "name": "MAX_TRAIT_POINTS", "value": "15"
+  { "info": "创建角色时最大特性点数。", "default": "默认：12 （最小：0，最大：1000）", "name": "MAX_TRAIT_POINTS", "value": "1000"
   },
   { "info": "技能提升的速度倍率，包括阅读书籍及训练所得的经验。 0.5 代表默认值的一半速度，2.0 快两倍，0.0 时技能只会因NPC 训练提升。", "default": "默认：1.00（最小：0.00，最大：100.00）", "name": "SKILL_TRAINING_SPEED", "value": "1.00"
   },

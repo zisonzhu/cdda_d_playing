@@ -9,7 +9,7 @@
 ,[[false,32400]]
 ,[[false,32400]]
 ,[[false,32400]]
-,[[false,25379],[true,1],[false,179],[true,1],[false,178],[true,2],[false,178],[true,2],[false,178],[true,2],[false,178],[true,2],[false,177],[true,3],[false,177],[true,3],[false,177],[true,3],[false,178],[true,2],[false,178],[true,2],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,179],[true,1],[false,178],[true,2],[false,178],[true,2],[false,178],[true,2],[false,177],[true,3],[false,177],[true,3],[false,178],[true,2],[false,179],[true,1],[false,1620]]
+,[[false,25379],[true,1],[false,179],[true,1],[false,178],[true,2],[false,178],[true,2],[false,178],[true,2],[false,158],[true,3],[false,17],[true,2],[false,155],[true,18],[false,4],[true,3],[false,153],[true,27],[false,153],[true,27],[false,154],[true,26],[false,155],[true,25],[false,148],[true,2],[false,5],[true,23],[false,1],[true,1],[false,147],[true,4],[false,5],[true,22],[false,1],[true,1],[false,147],[true,29],[false,3],[true,1],[false,147],[true,29],[false,3],[true,1],[false,146],[true,30],[false,3],[true,1],[false,147],[true,30],[false,2],[true,1],[false,147],[true,31],[false,1],[true,1],[false,147],[true,3],[false,1],[true,27],[false,1],[true,1],[false,148],[true,1],[false,3],[true,26],[false,1],[true,1],[false,153],[true,25],[false,1],[true,1],[false,160],[true,20],[false,168],[true,12],[false,175],[true,5],[false,176],[true,4],[false,176],[true,4],[false,177],[true,3],[false,177],[true,3],[false,177],[true,3],[false,178],[true,2],[false,179],[true,1],[false,1620]]
 ,[[false,32400]]
 ,[[false,32400]]
 ,[[false,32400]]
@@ -43,4 +43,8 @@
 ,[[false,32400]]
 ],"notes":[[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]],"extras":[[],[],[],[],[],[],[],[],[],[],[[178,163,"mx_grove"]
 ,[178,164,"mx_crater"]
+,[177,162,"mx_clearcut"]
+,[173,164,"mx_point_burned_ground"]
+,[167,159,"mx_supplydrop"]
+,[153,155,"mx_house_spider"]
 ],[],[],[],[],[],[],[],[],[],[]]}
